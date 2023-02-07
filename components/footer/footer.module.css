@@ -1,0 +1,24 @@
+.footerLogo {
+  border-radius: 5px;
+}
+
+.contact {
+  display: block;
+}
+
+.contact li {
+  list-style: none;
+  font-size: 14px;
+  margin: 0 15px;
+}
+
+.social {
+  display: block;
+}
+
+.social li {
+  list-style: none;
+  font-size: 20px;
+  border-radius: 60px;
+  margin: 0 15px;
+}
